@@ -1,0 +1,23 @@
+/*!
+ * Bootstrap v2.2.2
+ *
+ * Copyright 2012 Twitter, Inc
+ * Licensed under the Apache License v2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Designed and built with all the love in the world @twitter by @mdo and @fat.
+ */
+
+.icon-time
+{
+	display: inline-block;
+    width: 14px;
+    height: 14px;
+    margin-top: 1px;
+    line-height: 14px;
+    vertical-align: text-top;
+    background-image: url(../datapicker/images.png);
+    background-position: 14px 14px;
+    background-repeat: no-repeat;
+	/*background-image: url(http://138.197.54.179/datapicker/images.png);*/
+}
